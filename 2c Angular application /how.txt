@@ -1,9 +1,0 @@
-terminal 
-
-npm install -g @angular/cli@latest
-
-ng new partc
-
-select css
-
-ng serve
